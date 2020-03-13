@@ -1,8 +1,12 @@
 body{
-    background-color: rgb(189, 231, 229);
-
+    background-color: rgb(77, 44, 196);
+   font-size: 26px;
 }
 h2{
-    font-size: xx-large;
+    font-size: 40px;
 }
 
+img{
+    width: 100px;
+    height: 100px;
+}
